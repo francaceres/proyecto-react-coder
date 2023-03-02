@@ -1,0 +1,16 @@
+.navBar {
+  display: flex;
+  justify-content: space-between;
+  background-color: #f40000;
+  padding: 10px;
+  margin-bottom: 25px;
+}
+
+.menu {
+  display: flex;
+  align-items: center;
+}
+
+h1 {
+  color: #ffffff;
+}
